@@ -3,7 +3,7 @@ from distutils.core import setup
 
 
 setup(
-    name='timr.ebook.core',
+    name='timr.ebooks.core',
     version='0.1',
     description='E-book sentence generation utils',
     author='Robert Wallhead',
@@ -11,6 +11,6 @@ setup(
     url='http://thisismyrobot.com/',
     packages=[
         'timr',
-        'timr.ebook',
+        'timr.ebooks',
     ],
 )

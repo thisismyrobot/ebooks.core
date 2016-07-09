@@ -1,7 +1,7 @@
 """Tests core."""
 import pytest
 
-import timr.ebook.core as core
+import timr.ebooks.core as core
 
 
 def test_corpus_must_be_iterable():

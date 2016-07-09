@@ -1,6 +1,6 @@
 # NOTE: This repo is still WIP as I'm migrating code from elsewhere into a proper Python package.
 
-# ebook.core
+# ebooks.core
 
 A reliable, reusable and quite good sentence generate to help create "ebook"
 chat bots from.
@@ -14,7 +14,7 @@ chat bots from.
 
 ```python
 
-    >>> import timr.ebook.core as core
+    >>> import timr.ebooks.core as core
 
 
     >>> with open('example_corpus.txt', 'rb') as corpf:

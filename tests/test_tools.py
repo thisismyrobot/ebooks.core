@@ -1,5 +1,5 @@
 """Tests tools."""
-import timr.ebook.tools as tools
+import timr.ebooks.tools as tools
 
 
 def test_normalise():
