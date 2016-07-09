@@ -7,7 +7,11 @@ chat bots from.
 
 ## Install
 
+```bash
+
     pip install git+https://github.com/thisismyrobot/ebooks.core.git
+
+```
 
 ## Usage
 
@@ -26,5 +30,9 @@ chat bots from.
 
 ## Tests
 
+```bash
+
     pip install tox
     tox
+
+```
