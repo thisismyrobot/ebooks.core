@@ -1,5 +1,4 @@
-# NOTE: This repo is still WIP as I'm migrating code from elsewhere into a
-# proper Python package.
+# NOTE: This repo is still WIP as I'm migrating code from elsewhere into a proper Python package.
 
 # ebook.core
 
