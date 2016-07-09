@@ -3,6 +3,9 @@ import collections
 import re
 
 
+SENTENCE_BREAKS = '!?.,-'
+
+
 def normalise(word):
     """Normalise a word for frequency lookups."""
     word = re.sub('&', 'and', word)
